@@ -7,4 +7,4 @@ This competition was hosted by `CU Boulder`
 ### Links
 - https://www.kaggle.com/competitions/cuboulderdassahackathonclassification
 - https://www.kaggle.com/competitions/cuboulderdassahackathonrgression
-- https://www.kaggle.com/code/thejaskiran/cu-msds-hackathon (Credits: @Anhony)
+- https://www.kaggle.com/code/thejaskiran/cu-msds-hackathon (Credits: @Anthony)
